@@ -1,3 +1,4 @@
+"""Here are the ways to answer user"""
 from enum import StrEnum
 from services.main_menu_actions import (weather_in_user_city,
                                         weather_in_any_city, history,

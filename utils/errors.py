@@ -1,3 +1,4 @@
+"""Possible exceptions and handling them"""
 from typing import Callable
 from content.errors_messages import (USER_CITY_CANT_BE_FOUND_MESSAGE,
                                      INCORRECT_CITY_MESSAGE,
